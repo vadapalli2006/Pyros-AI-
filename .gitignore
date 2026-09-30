@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+models/*.pth
+data/raw/*.csv
+data/processed/*
+.DS_Store
+*.log
+data/worldbank/*.xlsx
